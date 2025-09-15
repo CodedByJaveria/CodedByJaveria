@@ -41,6 +41,10 @@
 (More mini projects like Digital Clock, To-Do App, Random Password Generator, Dark-Light Mode, Quote Generator, etc.)
 
 ---
+![Javeria's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodedByJaveria&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodedByJaveria&layout=compact&theme=radical)
+
 
 ### 📬 Let’s Connect  
 
