@@ -41,12 +41,11 @@
 (More mini projects like Digital Clock, To-Do App, Random Password Generator, Dark-Light Mode, Quote Generator, etc.)
 
 ---
-<!-- GitHub Stats + Top Languages side by side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodedByJaveria&show_icons=true&theme=radical" height="170" style="margin-right: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodedByJaveria&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodedByJaveria&show_icons=true&theme=radical" height="170" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 5 spaces ka gap -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodedByJaveria&layout=compact&theme=radical" height="170" />
 </p>
-
 ---
 
 ### 🌐 Let's Connect
