@@ -43,7 +43,7 @@
 ## 🎓 Education
 
 - *BS Computer Science* – GC University, Faisalabad (2021 – 2025)  
-  Currently in 3rd Semester | Focus on Web Development, Software Engineering & Data Structures
+  Currently in 5th Semester | Focus on Web Development, Software Engineering & Data Structures
 
 - *F.Sc (Pre-Engineering)* – Vision College, Gojra (2019 – 2021)
 
