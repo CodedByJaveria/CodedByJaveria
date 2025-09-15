@@ -40,6 +40,20 @@
 
 (More mini projects like Digital Clock, To-Do App, Random Password Generator, Dark-Light Mode, Quote Generator, etc.)
 
+## 🎓 Education
+
+- *BS Computer Science* – GC University, Faisalabad (2021 – 2025)  
+  Currently in 3rd Semester | Focus on Web Development, Software Engineering & Data Structures
+
+- *F.Sc (Pre-Engineering)* – Vision College, Gojra (2019 – 2021)
+
+- *Matriculation (Science)* – Divisional Model School, Gojra (2017 – 2019)
+
+## 🏆 Achievements
+
+- Built *15+ projects* including: Personal Portfolio,Beauty Store Website, Fashion Store, Food Website, Weather App, Calculator etc.
+- Learning *Full-Stack Development* (React, Next.js, C, C++, C#)
+- Exploring *UI/UX Design* and modern web trends
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodedByJaveria&show_icons=true&theme=radical" height="170" />
@@ -51,16 +65,16 @@
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.tiktok.com/@YourTikTokUsername" target="_blank">
+  <a href="https://www.tiktok.com/@jerry_vibes_?_t=ZS-8zkE2oaYyJE&_r=1" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/YourInstaUsername" target="_blank">
+  <a href=https://www.instagram.com/coded.by.javeria?igsh=a3ZpdXNpNXk3MGp5"" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YourLinkedInUsername" target="_blank">
+  <a href="https://www.linkedin.com/in/javeria-tariq-ba0834380?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YourEmail@example.com" target="_blank">
+  <a href="mailto:javeriatariq323@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
